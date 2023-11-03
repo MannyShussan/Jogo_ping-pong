@@ -1,0 +1,1 @@
+Esse joguinho não aprimorado, por ser o meu primeiro contato com o JavaScript, então por questão de consideração, eu deixei o jogo da mesma forma de quando eu o desenvolvi.
